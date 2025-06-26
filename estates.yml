@@ -1,9 +1,0 @@
-server:
-  port: 8081
-
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/estates_db
-    username: postgres
-    password: 17869
-    driver-class-name: org.postgresql.Driver
